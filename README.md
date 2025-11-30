@@ -1,0 +1,1 @@
+# Frontend (Next.js) - See project root README for instructions.
